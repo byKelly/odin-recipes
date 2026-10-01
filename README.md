@@ -1,0 +1,2 @@
+In this project, I will share recipes that are delicious! I will use what I've learned in HTML and Git to display the recipes in an easy layout. Pictures or images will be included in this project. My hope is to apply what I've learned 
+and to share scrumptous recipes that are easy to make at home.
