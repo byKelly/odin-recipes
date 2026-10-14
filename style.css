@@ -1,7 +1,9 @@
 body {
-    background-color: rgb(162, 134, 81);
+    background-color: rgb(232, 204, 153);
     color:black;
     font-family: sans-serif;
+    padding: 14px 14px;
+    margin: 14px;
 }
 
 .recipe-list {
